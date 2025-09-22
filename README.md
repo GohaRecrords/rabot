@@ -2,47 +2,8 @@
 
 This is a Telegram bot to show events from Resident Advisor.
 
-## Features
+## 🚀 One-Click Deploy
 
-- Browse events by date (prev / today / next)
-- Free text search (event or club name)
-- Save favorites (optional)
-- Extendable to include reminders and more
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?repository=https://github.com/GohaRecrords/ra-bot)
 
-## Setup
-
-1. Clone this repo:
-
-```bash
-git clone https://github.com/yourusername/ra-bot.git
-cd ra-bot
-```
-
-2. Create a `.env` file from the example:
-
-```bash
-cp .env.example .env
-# then edit and paste your TELEGRAM_TOKEN
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the bot:
-
-```bash
-python bot.py
-```
-
-## Hosting Suggestions
-
-- [Render](https://render.com)
-- [Railway](https://railway.app)
-- Replit (for development)
-
-## License
-
-MIT
+Click the button above to deploy your bot to [Railway](https://railway.app) — free hosting with auto-restarts and environment variable support.
